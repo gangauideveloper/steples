@@ -1,0 +1,242 @@
+/*Footer First Part Media Link Only*/
+.Media_footer_links{
+	width:1349px;
+	height: 377px;
+	background-color: #444;
+}
+.Media_footer_links .Sub_Media{
+	padding-top:41px;
+	padding-left:16px;
+	width:1333px;
+	height:336px;
+	background-color:#444;
+}
+.Customer_Service{
+	width:321.250px;
+	height:324px;
+	background-color:;
+	margin: 6px;
+	float: left;
+	position: relative;
+	top:-9px;
+}
+.Customer_Service a{
+	color: #fff;
+	text-decoration:none;
+}
+.Customer_Service p{
+	line-height: 1.5;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.all_submenu{
+	width:100%;
+	float: none;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    position: relative;
+    top:1px;
+}
+.all_submenu span{
+	color: #fff;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    position: relative;
+    top: -12px;
+}
+.all_submenu span:hover{
+	text-decoration:underline;
+}
+.Staples_More{
+	width:321.45px;
+	height:24px;
+	color: #fff;
+	position: relative;
+	top:-3px;
+}
+.Program{
+	position: relative;
+	top:-3px;
+}
+.match{
+    font-size: 13px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	position: relative;
+	top:-10px;
+}
+.match2{
+	font-size: 13px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	position: relative;
+	top:-10px;
+}
+.match3{
+	font-size: 13px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	position: relative;
+	top:-48px;
+}
+.match4{
+	font-size: 13px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	position: relative;
+	top:-86px;
+}
+
+/*Soical_Icon CSS  Second Part of Footer*/
+.Soical_Icon{
+	width:1333px;
+	height: 117px;
+	padding: 10px 0 10px 16px;
+	background-color: #666;
+}
+.Join_us{
+	position: relative;
+    top: 15px;
+    left: 10px;
+    width: 321.25px;
+    height: 85px;
+    float: left;
+	
+}
+.Join_us .inside_span{
+	color: #fff;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.ftpi_icon{
+	width: 321.25px;
+	height: 50px;
+	position: relative;
+	top:17px;
+}
+.Icon1{
+	font-size: 24px;
+    /* padding: 5px 0px 0px 10px; */
+    padding-top: 6px;
+    padding-right: 5px;
+    border-radius: 2px;
+    color: #666;
+    background-color: #fff;
+    width: 27px;
+    height: 23px;
+    text-align: right;
+    align-bottom: 0px;
+}
+.Icon2{
+	font-size: 20px;
+    padding-top: 6px;
+    padding-right: 5px;
+    color: #666;
+    background-color: #fff;
+    width: 27px;
+    height: 23px;
+    text-align: right;
+    position: relative;
+    top: -4px;
+    border-radius: 2px;
+}
+.Icon3{
+	font-size: 25px;
+    padding-top: 6px;
+    padding-right: 5px;
+    color: #666;
+    background-color: #fff;
+    width: 24px;
+    height: 23px;
+    border-radius: 50%;
+    text-align: right;
+}
+.Icon4{
+	font-size: 24px;
+    /* padding-top: 6px; */
+    /* padding-right: 5px; */
+    color: #666;
+    background-color: #fff;
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    top: -7px;
+    border-radius: 2px;
+}
+.Icon5{
+	font-size: 25px;
+    /* padding-top: 6px; */
+    /* padding-right: 5px; */
+    color: #666;
+    background-color: #fff;
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    text-align: center;
+}
+.Icon6{
+	font-size: 25px;
+    /* padding-top: 6px; */
+    /* padding-right: 5px; */
+    color: #666;
+    background-color: #fff;
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    text-align: center;
+}
+.input_offer{
+	position: relative;
+    top: -9px;
+    left: -2px;
+    width: 369px;
+    border-radius: 3px;
+    border:none;
+}
+.input_offer:hover{
+}
+.Subscribe{
+	position: relative;
+    top: -44px;
+    left: 398px;
+    width: 115px;
+    background-color: #fff;
+    color: #c00;
+     border-radius: 3px;
+}
+.Subscribe:hover{
+	background-color: #c00;
+	color:#fff;
+}
+
+/* Copy_Right Css*/
+.Copy_Right{
+	width:1349px;
+	height:40px;
+	background-color: #444;
+	position: relative;
+    top: -16px;
+    text-align: center;
+    padding: 15px 22px 30px;
+    line-height: 1.5em;
+}
+.copy_content span{
+	color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 18px;
+}
+.copy_content span:hover{
+	text-decoration:underline;
+}
+.officeSupplies span{
+	position: relative;
+	top:-21px;
+	color: #fff;
+	font-size: 13px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.officeSupplies span:hover{
+	text-decoration:underline;
+	
+}

@@ -1,0 +1,91 @@
+.banner{
+    width:1313px;
+    height:270px;
+    margin:-39px -6px 0 12px;
+    color:#4d4d4d       
+}
+.first img{
+    background-position: 0 0;
+    overflow: hidden;
+    width:863.33px;
+    height: 252px;
+    position: relative;
+    left:20px;
+    border-radius: 3px;
+    margin-bottom: 6px;
+}
+.content{
+    color:#fff;
+    font-size:22px;
+    font-family: HelveticaNeueCondensed-Bold;
+    color: #fff;
+    padding-top: 9px;
+    letter-spacing: .1px;
+    width: 191px;
+    height: 158px;
+    position: absolute;
+    top: 481px;
+    left: 29px;
+}
+#stay{
+    color: #444;
+    font-size: 14px;
+    padding-top: 0px;
+    position: relative;
+    top:-10px;
+}
+.content .shopnow{
+    width: 142px;
+    height: 36px;
+    position: absolute;
+    top: 197px;
+    left: 0px;
+    border-radius: 4px;
+    /* border-bottom-left-radius: 0; */
+    background-color: #c00;
+    color:#fff;
+    border: none;
+}
+.shopnow:hover{
+    color:#c00;
+    background: #fff;
+    border:1px solid #c00;
+}
+.second{
+     position: relative;
+    top: -270px;
+    left: 871px;
+}
+.second img{
+    width:463px;
+    height:252px;
+}
+.second .content{
+    color: #444;
+    width: 170px;
+    height: 99px;
+    position: relative;
+    top: -260px;
+    left: 18px;
+}
+.stay{
+    color: #444;    
+}
+.second span{
+    width:191px;
+}
+.weekly{
+    width: 141px;
+    height: 36px;
+    color: #fff;
+    background-color: #c00;
+    position: relative;
+    left: 1px;
+    border-radius: 4px;
+    top: 85px;
+}
+.weekly:hover{
+    color:#c00;
+    background-color: #fff;
+    border:1px solid #c00;
+}

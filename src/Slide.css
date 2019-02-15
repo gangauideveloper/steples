@@ -1,0 +1,11 @@
+.slide{
+	width:1325px;
+	height:264px;
+	position: relative;
+	top:-26px;
+}
+.slide img{
+	max-width: 1325px;
+	height:262px;
+	margin:0 12px 0 12px;
+}

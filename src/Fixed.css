@@ -1,0 +1,71 @@
+.fixed{
+    width: 1349px;
+    max-width: 1325px;
+    height: 54px;
+    margin: 0 12px 0 12px;
+    position: relative;
+    top: -14px;
+    background-color: #444;
+    overflow: hidden;
+}
+.Welcome{
+    color: #fff;
+    font-size:22px;
+    position: relative;
+    top:10px;
+    margin-left:20px;
+    align:center; 
+}
+.wantfree{
+    color: #fff;
+    font-size: 13px;
+    font-family: HelveticaNeue-Bold;
+    position: relative;
+    top: 2px;
+    left: 223px;
+    margin-left: 20px;
+}
+.Join{
+    position: relative;
+    top: 15px;
+    color: #fff;
+    font-size: 13px;  
+}
+.buttons{
+    width: 294px;
+    height: 37px;
+    position: relative;
+    left: 1067px;
+    top: -55px;
+    overflow: hidden;
+}
+.input1{
+    width: 124px;
+    height: 31px;
+    position: absolute;
+    top: 0px;
+    left: -12px;
+    right: 32px;
+   	border-radius: 3px;
+    background-color: #fff;
+    color: #c00;
+}
+.input1:hover{
+	color: #fff;
+	background-color:#c00; 
+}
+.input2{
+    width: 124px;
+    height: 31px;
+    border: 1px solid #fff;
+    color: #fff;
+   	border-radius: 3px;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    right: 32px;
+}
+.input2:hover{
+	color: #fff;
+	background-color:#c00; 
+}
