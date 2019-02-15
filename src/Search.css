@@ -1,0 +1,21 @@
+.Main{
+	width:1349px;
+	height:44px;
+	/*border-bottom: 1px solid red;*/
+}
+.logo img{
+	min-width: 126px;
+	height:25px;
+	margin: 18px 20px;
+	background-repeat:no-repeat;
+}
+.blank{
+	width:1349px;
+	height:12px;
+	margin-top: 1px;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+button span{
+	color:#fff;
+}
